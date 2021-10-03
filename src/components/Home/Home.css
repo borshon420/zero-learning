@@ -1,3 +1,15 @@
 .home-content {
     margin-left: 100px;
 }
+
+.home-content h1 {
+    margin-bottom: 100px;
+}
+
+.text-color {
+    color: #F0A500;
+}
+
+.text-color-2 {
+    color: #082032;
+}

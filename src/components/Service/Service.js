@@ -3,7 +3,7 @@ import { Button, Card } from 'react-bootstrap';
 import './Service.css';
 
 const Service = (props) => {
-    const {name, img, professor} = props.service;
+    const {name, img, professor, price} = props.service;
     return (
         <div className="service-container">
             
@@ -15,6 +15,7 @@ const Service = (props) => {
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
     </Card.Text>
+    <Card.Title>Price: ${price}</Card.Title>
     <Card.Title>Professor: {professor}</Card.Title>
     <Button variant="primary">Go somewhere</Button>
   </Card.Body>

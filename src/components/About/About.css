@@ -1,0 +1,9 @@
+.about-container {
+    display: flex;
+    
+    margin-left: 100px;
+}
+
+.about-us-container {
+    width: 40%;
+}
