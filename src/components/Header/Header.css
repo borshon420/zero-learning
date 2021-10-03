@@ -1,0 +1,17 @@
+.navigation-menu {
+    background-color: #2196f3;
+    line-height: 50px;
+    margin-bottom: 100px;
+}
+
+.menu {
+    margin-left: 90px;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font-weight: 600;
+}
+
