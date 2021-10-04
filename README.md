@@ -4,7 +4,7 @@
 • You can see a lot of learning section in this website.
 • You can see learning pacages of the website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://zerolearning.netlify.app/).
 
 ## Available Scripts
 
