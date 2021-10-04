@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This is a Learning website called "ZeroLearning"
+• I created this website for learning and exploring React.
+• I used react bootstrap and react router to make this website. 
+• You can see a lot of learning section in this website.
+• You can see learning pacages of the website.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
