@@ -1,9 +1,44 @@
+.about-head-container {
+    background-image: url("https://www.acadecraft.com/images/inner-bg/About-us-Corporate-Profile.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+.about-text {
+    text-align: center;
+    color: #222222;
+    padding-top: 220px;
+    font-size: 70px;
+}
+
+
 .about-container {
     display: flex;
-    
     margin-left: 100px;
+    align-items: center;
 }
 
 .about-us-container {
     width: 40%;
+    margin-right: 100px;
+}
+
+img {
+    width: 500px;
+
+}
+
+.about-container-2 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.about-us-container-2 {
+    width: 40%;
+    margin-left: 200px;
+    
 }

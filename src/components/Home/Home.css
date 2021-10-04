@@ -1,15 +1,39 @@
-.home-content {
-    margin-left: 100px;
-}
-
-.home-content h1 {
+.home-image-container {
+    background-image: url("https://images.pexels.com/photos/2449600/pexels-photo-2449600.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-bottom: 100px;
 }
 
+.home-content h1 {
+    margin-bottom: 50px;
+    margin-left: 100px;
+    padding-top: 180px;
+    font-size: 50px;
+    color: white;
+}
+
+.home-btn {
+    margin-left: 100px;
+}
+
+.home-btn Button {
+    background-color: #4D97F3;
+    border: none;
+    font-weight: 600;
+    padding: 10px 20px;
+}
+
+.home-btn Button:hover {
+    background-color: white;
+    color: black;
+}
+
 .text-color {
-    color: #F0A500;
+    color: #FFB344;
 }
 
 .text-color-2 {
-    color: #082032;
+    color: rgb(185, 250, 56);
 }

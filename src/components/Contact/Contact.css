@@ -1,0 +1,33 @@
+.contact-header {
+    background-image: url("https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.contact-heading {
+    padding-top: 220px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.contact-container {
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.contact-img-content {
+    border: 1px solid #222222;
+}
+
+.contact-form {
+    width: 50%;
+    border: 1px solid #222222;
+    padding: 30px;
+    border-radius: 10px;
+}

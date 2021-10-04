@@ -1,5 +1,21 @@
+.our-services {
+    background-image: url("https://www.plm.automation.siemens.com/media/global/de/managed-services-landing-page-is546461564-ogimage1200x630_tcm53-64833.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+.our-services h1 {
+    padding-top: 200px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
 .services-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
+    margin-left: 50px;
 }
